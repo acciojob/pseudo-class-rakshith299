@@ -1,3 +1,7 @@
+.span{
+	color: rgb(255, 0, 0);
+}
+
 div span{
 	color: rgb(255, 0, 0);
 	font-size: 20px;

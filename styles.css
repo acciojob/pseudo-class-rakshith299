@@ -1,8 +1,5 @@
-.span{
-	color: rgb(0, 0, 0);
-}
 
-div span{
+div .span{
 	color: rgb(255, 0, 0);
 	font-size: 20px;
 }

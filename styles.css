@@ -1,5 +1,12 @@
 
-div .span{
-	color: rgb(255,0,0);
+div::before{
+	content: "Before Element";
+	color: rgb(255, 0, 0);
 	font-size: 20px;
+}
+
+div::after{
+	content: "After Element";
+	color: rgb(255, 0, 0);
+	font-size: 20px; 
 }
